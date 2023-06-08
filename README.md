@@ -3,6 +3,8 @@ This paper belongs to our TPDL2023 submission.
 Thank you for being here.
 However, due to legal restrictions we cannot provide news articles or produced intermediate data.
 
+## Expert Feedback (User Study)
+The expert feedback and the questions are available here: [ExpertFeedback.pdf](ExpertFeedback.pdf)
 
 ## Setup
 We used a virtual Python environment.
